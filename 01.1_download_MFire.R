@@ -27,7 +27,7 @@ library(arules)
 
 # give the year of data wanted be downloading
 # could write to a function if required multiple years
-iyear = 2016
+iyear = 2019
 
 # data starting from Feburary of 2000
 if(iyear == 2000){
